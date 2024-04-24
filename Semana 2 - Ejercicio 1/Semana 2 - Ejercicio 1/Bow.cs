@@ -16,7 +16,7 @@ namespace Semana_2___Ejercicio_1
             Name = "Bow";
             Damage = 15;
             AttackSpeed = 2.0f;
-            Projectile = new Arrow(); 
+            Projectile = new Arrow();
             Price = 80; 
         }
     }

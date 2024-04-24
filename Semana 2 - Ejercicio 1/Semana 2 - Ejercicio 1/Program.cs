@@ -74,7 +74,7 @@ namespace Semana_2___Ejercicio_1
                                             float rangedAttackSpeed;
                                             if (float.TryParse(Console.ReadLine(), out rangedAttackSpeed))
                                             {
-                                                Console.Write("Projectile damage: ");
+                                                Console.Write("Proje|ctile damage: ");
                                                 int projectileDamage;
                                                 if (int.TryParse(Console.ReadLine(), out projectileDamage))
                                                 {

@@ -11,7 +11,7 @@ namespace Semana_2___Ejercicio_1
         public string Name { get; set; } = "";
         public int Damage { get; set; }
         public float AttackSpeed { get; set; }
-        public decimal Price { get; set; }
+        public int Price { get; set; }
 
         public float DPS()
         {
