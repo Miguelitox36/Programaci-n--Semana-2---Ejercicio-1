@@ -12,5 +12,6 @@ namespace Semana_2___Ejercicio_1
         int Damage { get; }
         float AttackSpeed { get; }
         float DPS();
+        int Price { get; }
     }
 }
